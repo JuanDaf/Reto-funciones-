@@ -1,0 +1,12 @@
+{
+  "name": "pnodejs",
+  "version": "1.0.0",
+  "description": "retomando",
+  "main": "index.js",
+  "scripts": {
+    "testnode": "Hola, este es mi primer ejercicion con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan David",
+  "license": "ISC"
+}
